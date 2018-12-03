@@ -1,11 +1,11 @@
-# Basic Docker-Compose package
+# Minimal PHP with Nginx Docker-Compose package
 
 ## Install
 
 1. Clone this repository. 
 1. Choose suitable branch.
 1. Remove `.git` folder.
-1. Move `docker` folder into your project root.
+1. Move whole repository folder as `docker` folder into your project root.
 
 ## Set-up
 
